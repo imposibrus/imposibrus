@@ -1,16 +1,30 @@
-### Hi there 👋
+# hey there 👋
 
-<!--
-**imposibrus/imposibrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Вадим и я делаю, чтоб работало. Но иногда также могу сделать, чтоб работали (люди/роботы - не важно😄 ).
 
-Here are some ideas to get you started:
+Люблю делать фичи сам от идеи до продакшена, но это не принципиально.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>
+  
+```javascript
+ 
+import {mind, care, respect} from 'personality';
+
+export const imposibrus = {
+  tech: {
+    backend: [Node, Express, Php, Laravel],
+    db: [PostgreSql, MySql, MongoDB],
+    front: [Vue, Vuex, jQuery],
+    devops: [Docker, "Docker Swarm", "Docker Compose", Ansible],
+    tests: [Mocha, Jest, Should],
+    iot: [MQTT, "Home Assistant", "Node Red"],
+  },
+  links: [
+    'https://www.linkedin.com/in/imposibrus/',
+  ],
+  // TODO: add more personal info
+};
+ 
+```
+  
+</h3>
