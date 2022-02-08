@@ -28,3 +28,5 @@ export const imposibrus = {
 ```
   
 </h3>
+
+[![codewars](https://www.codewars.com/users/imposibrus/badges/large)](https://www.codewars.com/users/imposibrus)   
